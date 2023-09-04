@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+}
+
+header {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section h1 {
+    color: red;
+ }
+
+ footer {
+    background-color: gray;
+ }
+
+#destaque {
+    background-color: yellowgreen;
+}
+
+.borda-vermelha { 
+    border-style:solid;
+    border-color: red;
+}
